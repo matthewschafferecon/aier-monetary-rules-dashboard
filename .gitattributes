@@ -1,0 +1,3 @@
+data/results.json -text
+data/archive/** -text
+*.xlsx binary
